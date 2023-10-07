@@ -16,8 +16,8 @@ An Outlier is an observation in a given dataset that lies far from the rest of t
 - Step4: Remove the outliers.
 - Step5: Plot the datas using Box Plot.
 ```
-Developed by : Deepika S
-register number : 212222230028
+Developed by : DINESH.S
+register number : 212222230033
 ```
 ## CODE:
 ### bhp.csv:
